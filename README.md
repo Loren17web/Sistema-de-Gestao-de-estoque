@@ -2,10 +2,9 @@
 
 Sistema de Gestão de Estoque(CRUD) com PHP, CSS3, HTML5, Javascript e Bootstrap Mysql
 
-Descrição do Projeto
 Neste repositório, você encontrará um sistema de gestão de estoque completo, desenvolvido usando PHP, CSS3, HTML Javascript e o framework Bootstrap. Este sistema permite que você acompanhe, gerencie e otimize o estoque de produtos de sua empresa de maneira eficiente e eficaz.
 
-Recursos Principais
+
 Destaque os principais recursos do seu sistema de gestão de estoque, como:
 
 Cadastro de produtos com informações detalhadas.
